@@ -100,7 +100,7 @@ You're done! Now just click App Templates and deploy applications!
 |N.20|[![Novaspirit Tech](https://pi-hosted.com/images/novaspirit-logo.png "Novaspirit Tech")](https://youtube.com/channel/UCrjKdwxaQMSV_NDywgKXVmw)|[Your Personal Weather Station Docker Container](https://www.youtube.com/watch?v=5JfPzvcm0E8)||
 |N.21|[![Novaspirit Tech](https://pi-hosted.com/images/novaspirit-logo.png "Novaspirit Tech")](https://youtube.com/channel/UCrjKdwxaQMSV_NDywgKXVmw)|[Hosting Without The Need to Port Forward Using This Trick!](https://www.youtube.com/watch?v=-QGbfTY5ExE)||
 
-### Aditional Documentation
+### Additional Documentation
 
 You can find more tutorials and useful information in our [GitHub Docs](https://github.com/pi-hosted/pi-hosted/blob/master/docs/DocumentList.md) folder.
 
